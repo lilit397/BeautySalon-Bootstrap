@@ -50,7 +50,7 @@ section {
 /* navbar */
 
 .navbar {
-  background: rgba(224, 229, 203, 0.68);
+  background: rgba(224, 229, 204, 0.68);
   background: linear-gradient(to left,rgba(126, 136, 88, 0.575),rgba(111, 129, 37, 0.685));
   backdrop-filter: blur(10);
 }
